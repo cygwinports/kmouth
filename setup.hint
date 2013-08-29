@@ -1,8 +1,0 @@
-category: KDE Accessibility
-requires: libgcc1 libkdecore5 libQt3Support4 libQtCore4 libQtDBus4 libQtGui4 libQtXml4 libstdc++6
-sdesc: "KDE speech synthesizer frontend"
-ldesc: "KDE accessibility suite:
-* kmag: screen magnifier
-* kmousetool: clicks mouse button automatically based on mouse movements
-* kmouth: speech synthesizer frontend
-* kttsd: text-to-speech engine"

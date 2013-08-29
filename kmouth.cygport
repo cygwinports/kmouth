@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kmouth"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE speech synthesizer frontend"
+DESCRIPTION="Part of the KDE accessibility suite"
