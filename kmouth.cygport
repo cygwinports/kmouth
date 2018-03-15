@@ -1,10 +1,8 @@
-inherit kde4
+inherit kf5
 
 NAME="kmouth"
-VERSION=17.08.3
+VERSION=17.12.3
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE speech synthesizer frontend"
 DESCRIPTION="Part of the KDE accessibility suite"
-
-REQUIRES="jovie"
